@@ -1,7 +1,7 @@
 @untitledbuilds
 dc: untitledbuilds
 learning C# & Python
-creator of RDP Client & Tex Client [wip]
+creator of RDP Client & CTX Client [wip]
 
 
 <!---
